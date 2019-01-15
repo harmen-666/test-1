@@ -3,3 +3,4 @@ function herhaal(teller, woord) {
     document.writeline(i + " " + woord)
   }
 }
+//cool x, ik kijk uit naar de volgende code xx
